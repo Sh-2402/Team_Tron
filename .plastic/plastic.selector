@@ -1,0 +1,3 @@
+repository "Team_Tron/Team_Tron@5773989520312@cloud"
+  path "/"
+    smartbranch "/main"
